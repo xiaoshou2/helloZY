@@ -14,4 +14,8 @@ wqddaa
 wq
 addd
 看好了 这个是我第二次修改了  哈哈 嗯嗯 可以了
+<<<<<<< Updated upstream
 我擦有意思啊
+=======
+这次是我在这个叫 xiaoshou上的分支进行了修改 哈哈
+>>>>>>> Stashed changes
