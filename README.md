@@ -1,9 +1,5 @@
 # helloZY
-我的第一个在git上的库
-ha哈哈 我了个 caqwq
 I love you hahaqw
-QWQW
-qqww   :qw
 
 dddaa
 wwwqo cffa  :
@@ -12,12 +8,22 @@ wqddaa
 :wq
 
 wq
-addd
-<<<<<<< HEAD
-看s
-wo
 好了 这个是我第二次修改了  哈哈 嗯嗯 可以了
 跟你说 我就不怕乱 啊哈哈
 
-这次是我在这个叫 xiaoshou上的分支进行了修改 哈哈
+这次是我在这个叫 xiaoshou上的分支进
+jjisf
+
+
+我怕擦炮 噢吗 多纳斯大街坡度啊的；ajsdadadafb
+
+a大大说的
+
+adasd
+ 
+
+
+
+我操你妈
+
 
